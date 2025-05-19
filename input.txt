@@ -1,0 +1,6 @@
+5 22 Bac_Giang
+2317 29 Ho_Thuy_Diem Ha_Noi
+3056 23 Hoang_Viet_Hoang Hai_Phong
+3119 29 Tang_Thanh_Loan Nam_Dinh
+3572 28 Do_Thuy_Van Bac_Giang
+7536 2 Luu_Hong_Phong Ha_Nam
