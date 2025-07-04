@@ -5,11 +5,11 @@ int main() {
     int R0, R1, R2;
     int m;
 
-    // Tọa độ điểm O
+
     scanf("%d %d", &x0, &y0);
-    // 3 bán kính
+   
     scanf("%d %d %d", &R0, &R1, &R2);
-    // Số điểm
+  
     scanf("%d", &m);
 
     int f0x[m], f0y[m], n0 = 0;
